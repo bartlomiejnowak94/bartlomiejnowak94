@@ -1,6 +1,14 @@
 ### Hi there 👋
+Programs I use:
 
-[![Obsidian](pics/obsidian.png)](https://github.com/obsidianmd)
+[<img src="pics/obsidian.png" width="300">](https://github.com/obsidianmd)
+[<img src="pics/slack.png" width="300">](https://slack.com/)
+
+
+Fav coding langs:
+
+[<img src="pics/python.png" width="300">](https://www.python.org/)
+
 
 <!--
 **bartlomiejnowak94/bartlomiejnowak94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
