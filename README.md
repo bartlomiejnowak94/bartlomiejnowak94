@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Obsidian](pics/obsidian.png)
+[![Obsidian](pics/obsidian.png)](https://github.com/obsidianmd)
 
 <!--
 **bartlomiejnowak94/bartlomiejnowak94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
