@@ -1,10 +1,10 @@
 ### Hi there 👋
-Programs I use:
+I use:
 
 [<img src="pics/obsidian.png" height="60">](https://github.com/obsidianmd)
-[<img src="pics/slack.png" height="60">](https://inkscape.org/)
-[<img src="pics/inkscape.png" height="60">](https://slack.com/)
-
+[<img src="pics/slack.png" height="60">](https://slack.com/)
+[<img src="pics/inkscape.png" height="60">](https://inkscape.org/)
+[<img src="pics/latex.png" height="60">](https://en.wikipedia.org/wiki/LaTeX)
 
 Fav coding langs:
 
@@ -15,6 +15,8 @@ Fav coding langs:
 [<img src="pics/php.png" height="60">](https://en.wikipedia.org/wiki/PHP)
 [<img src="pics/julia.png" height="60">](https://julialang.org/)
 [<img src="pics/netlogo.png" height="60">](https://ccl.northwestern.edu/netlogo/)
+[<img src="pics/matlab.png" height="60">](https://www.mathworks.com/products/matlab.html)
+[<img src="pics/R.png" height="60">](https://www.r-project.org/)
 
 
 
