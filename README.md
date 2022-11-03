@@ -12,7 +12,6 @@
 [<img src="pics/jul-sqr.png" height="60">](https://julialang.org/)
 [<img src="pics/mat-sqr.png" height="60">](https://www.mathworks.com/products/matlab.html)
 [<img src="pics/r-sqr.png" height="60">](https://www.r-project.org/)
-
 [<img src="pics/ink-sqr.png" height="60">](https://inkscape.org/)
 [<img src="pics/html-sqr.png" height="60">](https://en.wikipedia.org/wiki/HTML5)
 [<img src="pics/css-sqr.png" height="60">](https://en.wikipedia.org/wiki/CSS_(disambiguation))
