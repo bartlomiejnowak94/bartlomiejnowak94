@@ -19,10 +19,7 @@
 [<img src="pics/php-sqr.png" height="60">](https://en.wikipedia.org/wiki/PHP)
 [<img src="pics/tex-sqr.png" height="60">](https://en.wikipedia.org/wiki/LaTeX)
 
-
-
-
-
+I love coding, science and design (like my set of icons above 😊).
 
 
 
